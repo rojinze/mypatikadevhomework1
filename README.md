@@ -1,2 +1,3 @@
 # mypatikadevhomework1
-my patika dev homework1
+my patika dev homework :pizza
+
