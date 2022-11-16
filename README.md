@@ -1,3 +1,3 @@
 # mypatikadevhomework1
-my patika dev homework :pizza
+my patika dev homework 👏
 
